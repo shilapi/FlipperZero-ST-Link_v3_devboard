@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ST-Link_3.0_devkit-altium-import")(type "KiCad")(uri "${KIPRJMOD}/ST-Link_3.0_devkit-altium-import.kicad_sym")(options "")(descr ""))
+)
